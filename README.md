@@ -1,5 +1,5 @@
 # Weather
-It designed on HTML, CSS and JavaScript . It shows weather status of different countries.it updates weather status from API.  
+It designed on HTML, CSS and JavaScript . It shows weather status of different countries. It updates weather status from API.  
 
 Screenshots:
 ![2021-09-13 (8)](https://user-images.githubusercontent.com/89578075/133073539-134d4426-9e89-4f72-91c7-709ca377837b.png)
